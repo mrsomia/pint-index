@@ -6,7 +6,7 @@
 <div class="w-full flex justify-center">
   <div class="rounded-lg">
     <h2 class="text-xl py-8">How much does a {beer} cost?</h2>
-    <table class="w-full mx-4 rounded-lg">
+    <table class="mx-4 rounded-lg">
       <thead>
         <tr class="bg-slate-700">
           <th
