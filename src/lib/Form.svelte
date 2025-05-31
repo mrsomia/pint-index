@@ -2,7 +2,7 @@
 </script>
 
 <div class="w-full px-4 md:px-0 py-6 flex justify-center space-y-2">
-  <div class="w-full flex flex-col justify-center">
+  <div class="w-full md:w-sm flex flex-col justify-center">
     <h2 class="py-4 text-lg">Got an updated price, let us know</h2>
     <form name="contact" class="w-11/12 flex flex-col gap-2" netlify>
       <p class="py-2 w-full">
