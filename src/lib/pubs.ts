@@ -8,4 +8,10 @@ export interface Pub {
 }
 
 export const pubs: Pub[] = [
+  {
+    name: "Impala",
+    location: "7-8 Liberty Street, Cork",
+    price: 5.50,
+    url: "https://www.instagram.com/impala_cork/"
+  },
 ]
